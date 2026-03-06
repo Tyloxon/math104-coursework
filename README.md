@@ -1,4 +1,2 @@
-### MATH104 Coursework
-For the group presentation in MATH104 module.
+Chosen topic: **Fitness Training Data**
 
-Our data set is: **Fitness Training**
